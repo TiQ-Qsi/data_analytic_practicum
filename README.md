@@ -6,3 +6,4 @@
 | [Исследование надёжности заёмщиков](project_borrower_analysis) | Исследование влияния различных факторов на своевременность погашения кредитов | *pandas* |
 |[Исследование объявлений о продаже квартир](project_sale_apartments)| | *pandas*, *matplotlib*|
 |[Исcледование сервиса аренды самокатов GoFast](analysis_scooter_rental_service)| | *pandas*, *matplotlib*, *numpy*, *scipy*|
+|[Исследование интернет-магазина компьютерных игр](game_maekrt)| | *pandas*, *matplotlib*, *numpy*, *scipy*, *seaborn*|
