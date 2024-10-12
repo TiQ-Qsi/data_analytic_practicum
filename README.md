@@ -7,3 +7,4 @@
 |[Исследование объявлений о продаже квартир](project_sale_apartments)|Анализ архива данных сервиса Яндекс Недвижимость с целью определения рыночной стоимости недвижимости. | `pandas`, `matplotlib`|
 |[Исcледование сервиса аренды самокатов GoFast](analysis_scooter_rental_service)| | `pandas`, `matplotlib`, `numpy`, `scipy`|
 |[Исследование интернет-магазина компьютерных игр](game_maekrt)| | `pandas`, `matplotlib`, `numpy`, `Т-тест`, `seaborn`|
+|[Анализ убытков приложения](loss_analysis)| | `pandas`, `matplotlib`, `numpy`, `seaborn`|
